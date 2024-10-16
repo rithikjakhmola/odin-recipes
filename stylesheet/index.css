@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color : rgb(255, 249, 238) ; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seriff;
+}
+img{
+    border-radius: 5%;
+}
+a {
+    font-size : 24px; 
+    text-decoration: none;
+}
